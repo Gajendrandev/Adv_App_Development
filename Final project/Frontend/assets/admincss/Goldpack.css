@@ -1,0 +1,22 @@
+.polaroid-gold {
+    width: 400px;
+    height: 350px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align:left;
+    background-color: #fff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .polaroid-gold:hover{
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin-top: -10px;
+  }
+  .gold-type{
+    display: flex;
+    justify-content: center;
+    gap:2%;
+    background-color:antiquewhite;
+    height: 400px;
+    padding-top: 7%;
+    
+}

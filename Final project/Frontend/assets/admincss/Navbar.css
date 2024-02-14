@@ -1,0 +1,221 @@
+.nav-items {
+    display: flex;
+   background-color: #8a6969bd;
+    padding-left: 70%;
+  }
+  
+
+
+.nav-items a {
+  text-decoration: none;
+  color:black;
+  padding: 35px 15px;
+  font-size: 20px;
+  color: white;
+  /* font-weight: bold; */
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nav-items a:hover{
+  color: black;
+  background-color: #bba1a1;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #a9a6fa;
+    padding: 40px 80px;
+  }
+  
+  .footer .copy {
+    color: #fff;
+  }
+  .homeBox{
+    box-shadow: 1px 1px 10px rgb(195, 200, 201);
+    border-radius: 10px;
+     background-color:antiquewhite;
+    width: 1250px;
+    height: 500px;
+    
+    padding: 50px;
+    margin: 20px 40px;
+  }
+  .box-left{
+    
+    height: 100vh;
+    margin: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    display: flex;
+    gap:5%;
+    
+
+    
+}
+.box-right{
+    width: 50%;
+    height: 100px;
+    background: grey;
+    background-image: url('https://cdn.wallpapersafari.com/6/23/9YxczJ.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 50%;
+    
+}
+.im{
+    width: 30px;
+    height: 20px;
+}
+.centre-font{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+
+
+}
+.pac-b1{
+    background-color:bisque;
+    width: 450px;
+    height: 500px;
+    margin: 10px;
+    box-shadow: 10px 10px 5px lightblue;
+}
+.pac-b2{
+    background-color:rgb(36, 22, 235);
+    width: 450px;
+    height: 500px;
+    margin: 10px;
+    box-shadow: 10px 10px 5px lightblue;
+}
+.pac-b3{
+    background-color:rgb(199, 26, 46);
+    width: 450px;
+    height: 500px;
+    margin: 10px;
+    box-shadow: 10px 10px 5px lightblue;
+}
+.package-type{
+    display: flex;
+    justify-content: center;
+    gap:2%;
+    background-color: antiquewhite;
+    height: 500px;
+    padding-top: 7%;
+    
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  .btn {
+    /* background-color: #4151ff; */
+    border: none;
+    color: rgb(253, 253, 253);
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    align-items: center;
+  }
+  
+  .btn:hover {
+    background-color:rgb(148, 149, 154);
+    color: bisque;
+  }
+
+  .polaroid {
+    width: 400px;
+    height: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align:left;
+    background-color: #fff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .container {
+    padding: 10px;
+  }
+
+  .footer-type{
+    display: flex;
+    justify-content: center;
+    gap:8%;
+    height: 150px;
+    padding-top: 3%;
+  }
+
+  .footer-box{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    gap:2%;
+    flex-direction:column;
+    width: 39%;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    height: 20px;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    height: 20px;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    height: 20px;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    height: 20px;
+  }
+  .footer-box2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    gap:2%;
+    flex-direction:row;
+    width: 39%;
+  }
+  .fa{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    gap:2%;
+    flex-direction:row;
+    
+  }
